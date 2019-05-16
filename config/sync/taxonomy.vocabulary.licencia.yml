@@ -1,0 +1,8 @@
+uuid: eb248379-ff79-4876-b81f-52511bb9f5bc
+langcode: en
+status: true
+dependencies: {  }
+name: Licencia
+vid: licencia
+description: 'Vocabulario licencia'
+weight: 0
